@@ -11,7 +11,7 @@ public class Main {
         // Генерація послідовності
         CompletableFuture<List<Double>> sequenceFuture = CompletableFuture.supplyAsync(() -> {
             System.out.println("Generating sequence...");
-            return RandomSequenceGenerator.generateSequence(10);
+            return RandomSequenceGenerator.generateSequence(20);
         });
 
         // Обчислення максимальної різниці, по модулю
