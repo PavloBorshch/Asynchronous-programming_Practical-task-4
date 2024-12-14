@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efb11ce8-c0a9-4de5-ad5f-1e625c7a96d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1/FileLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1/TextProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1/file3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="efb11ce8-c0a9-4de5-ad5f-1e625c7a96d5" name="Changes" comment="task_1">
+      <change afterPath="$PROJECT_DIR$/src/task2/RandomSequenceGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/SequenceCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +84,19 @@
       <option name="presentableId" value="Default" />
       <updated>1734135583565</updated>
     </task>
+    <task id="LOCAL-00001" summary="task_1">
+      <option name="closed" value="true" />
+      <created>1734204258906</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734204258906</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_1" />
   </component>
 </project>
